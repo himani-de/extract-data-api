@@ -1,7 +1,7 @@
 ### Use Case
 - Import data from an api filter it and save it in sqlite database.
 
-###  My Solution
+###  Approach
 - Using python requests following deliverables has been achieved:
   - extracted required data to the database from the API only for the existing and manually imported users already in the   database.
   - using sql query we  have filtered the response which we extracted from the apis and using a library **termtables**
