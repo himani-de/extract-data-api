@@ -29,12 +29,6 @@
 |   |-- __init__.py
 |   |-- test_check_requests.py
 |   |-- test_check_user_data_todos.py
-|   |-- check_page_status
-|   |   |-- __init__.py
-|   |   `-- check_requests.py
-|   |-- check_user_data
-|   |   |-- __init__.py
-|   |   `-- check_user_data_todos.py
 |   |-- reports
 |   |   |-- __init__.py
 |   |   `-- test_user_report.py
