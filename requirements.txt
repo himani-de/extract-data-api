@@ -1,0 +1,4 @@
+natsort==8.1.0
+pytest==7.0.1
+requests==2.27.1
+termtables==0.2.4
